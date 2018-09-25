@@ -1,6 +1,6 @@
 package qsp;
 
 public class C {
-	int i= 10;
+	int i = 10;
 
 }
